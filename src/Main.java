@@ -29,7 +29,7 @@ public class Main {
                 case 1:
                     System.out.println("Ingrese la placa: ");
                     String pPLaca = sc.next();
-                    pp.sacarCarro(pPLaca);
+                    pp.entrarCarro(pPLaca);
                     break;
                 case 2:
                     System.out.println("Ingrese la placa del vehiculo que desea sacar");
